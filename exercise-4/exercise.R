@@ -37,3 +37,4 @@ SmallOrg <- org[spending == smallest]
 
 # How many grants were awarded in 2010?
 length(spending[grants$start_year == 2010])
+length(spending[grants$start_year == 2010])
